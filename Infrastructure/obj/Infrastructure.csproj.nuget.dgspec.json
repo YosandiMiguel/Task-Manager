@@ -1,35 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "F:\\All\\Code\\Programas\\Task Manager\\Infrastructure\\Infrastructure.csproj": {}
+    "/home/y_m_r/Escritorio/projects/Task-Manager/Infrastructure/Infrastructure.csproj": {}
   },
   "projects": {
-    "F:\\All\\Code\\Programas\\Task Manager\\DB\\DB.csproj": {
+    "/home/y_m_r/Escritorio/projects/Task-Manager/DB/DB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\All\\Code\\Programas\\Task Manager\\DB\\DB.csproj",
+        "projectUniqueName": "/home/y_m_r/Escritorio/projects/Task-Manager/DB/DB.csproj",
         "projectName": "DB",
-        "projectPath": "F:\\All\\Code\\Programas\\Task Manager\\DB\\DB.csproj",
-        "packagesPath": "C:\\Users\\elyos\\.nuget\\packages\\",
-        "outputPath": "F:\\All\\Code\\Programas\\Task Manager\\DB\\obj\\",
+        "projectPath": "/home/y_m_r/Escritorio/projects/Task-Manager/DB/DB.csproj",
+        "packagesPath": "/home/y_m_r/.nuget/packages/",
+        "outputPath": "/home/y_m_r/Escritorio/projects/Task-Manager/DB/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\elyos\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/y_m_r/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\All\\Code\\Programas\\Task Manager\\Models\\Models.csproj": {
-                "projectPath": "F:\\All\\Code\\Programas\\Task Manager\\Models\\Models.csproj"
+              "/home/y_m_r/Escritorio/projects/Task-Manager/Models/Models.csproj": {
+                "projectPath": "/home/y_m_r/Escritorio/projects/Task-Manager/Models/Models.csproj"
               }
             }
           }
@@ -75,39 +73,37 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\All\\Code\\Programas\\Task Manager\\Infrastructure\\Infrastructure.csproj": {
+    "/home/y_m_r/Escritorio/projects/Task-Manager/Infrastructure/Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\All\\Code\\Programas\\Task Manager\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "/home/y_m_r/Escritorio/projects/Task-Manager/Infrastructure/Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "F:\\All\\Code\\Programas\\Task Manager\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\elyos\\.nuget\\packages\\",
-        "outputPath": "F:\\All\\Code\\Programas\\Task Manager\\Infrastructure\\obj\\",
+        "projectPath": "/home/y_m_r/Escritorio/projects/Task-Manager/Infrastructure/Infrastructure.csproj",
+        "packagesPath": "/home/y_m_r/.nuget/packages/",
+        "outputPath": "/home/y_m_r/Escritorio/projects/Task-Manager/Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\elyos\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/y_m_r/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\All\\Code\\Programas\\Task Manager\\DB\\DB.csproj": {
-                "projectPath": "F:\\All\\Code\\Programas\\Task Manager\\DB\\DB.csproj"
+              "/home/y_m_r/Escritorio/projects/Task-Manager/DB/DB.csproj": {
+                "projectPath": "/home/y_m_r/Escritorio/projects/Task-Manager/DB/DB.csproj"
               },
-              "F:\\All\\Code\\Programas\\Task Manager\\Models\\Models.csproj": {
-                "projectPath": "F:\\All\\Code\\Programas\\Task Manager\\Models\\Models.csproj"
+              "/home/y_m_r/Escritorio/projects/Task-Manager/Models/Models.csproj": {
+                "projectPath": "/home/y_m_r/Escritorio/projects/Task-Manager/Models/Models.csproj"
               }
             }
           }
@@ -137,36 +133,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\All\\Code\\Programas\\Task Manager\\Models\\Models.csproj": {
+    "/home/y_m_r/Escritorio/projects/Task-Manager/Models/Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\All\\Code\\Programas\\Task Manager\\Models\\Models.csproj",
+        "projectUniqueName": "/home/y_m_r/Escritorio/projects/Task-Manager/Models/Models.csproj",
         "projectName": "Models",
-        "projectPath": "F:\\All\\Code\\Programas\\Task Manager\\Models\\Models.csproj",
-        "packagesPath": "C:\\Users\\elyos\\.nuget\\packages\\",
-        "outputPath": "F:\\All\\Code\\Programas\\Task Manager\\Models\\obj\\",
+        "projectPath": "/home/y_m_r/Escritorio/projects/Task-Manager/Models/Models.csproj",
+        "packagesPath": "/home/y_m_r/.nuget/packages/",
+        "outputPath": "/home/y_m_r/Escritorio/projects/Task-Manager/Models/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\elyos\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/y_m_r/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\All\\Code\\Programas\\Task Manager\\View\\View.csproj": {
-                "projectPath": "F:\\All\\Code\\Programas\\Task Manager\\View\\View.csproj"
+              "/home/y_m_r/Escritorio/projects/Task-Manager/View/View.csproj": {
+                "projectPath": "/home/y_m_r/Escritorio/projects/Task-Manager/View/View.csproj"
               }
             }
           }
@@ -196,15 +190,15 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\All\\Code\\Programas\\Task Manager\\View\\View.csproj": {
+    "/home/y_m_r/Escritorio/projects/Task-Manager/View/View.csproj": {
       "restore": {
-        "projectUniqueName": "F:\\All\\Code\\Programas\\Task Manager\\View\\View.csproj",
+        "projectUniqueName": "/home/y_m_r/Escritorio/projects/Task-Manager/View/View.csproj",
         "projectName": "View",
-        "projectPath": "F:\\All\\Code\\Programas\\Task Manager\\View\\View.csproj",
+        "projectPath": "/home/y_m_r/Escritorio/projects/Task-Manager/View/View.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}

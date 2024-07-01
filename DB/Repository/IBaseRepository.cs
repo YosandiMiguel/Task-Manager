@@ -8,6 +8,10 @@ namespace DB.Repository
     {
         TEntity GetEntityById(TId Id);
         List<TEntity> GetEntities();
+        bool Exits (Func<TEntity, bool> filter);
+        void Create (TEntity entity);
+        void Update (TEntity entity);
+        void Remove (TEntity entity);
 
     }
 }

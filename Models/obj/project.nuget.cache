@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0Erd/34MaXOZUZOoB0I3ukjactK8JDcYRMpQ4PwlV59NxYhUEgKKa7+9pxmRakuyvK9hLxhtXYdYhh5W2ALMKQ==",
+  "dgSpecHash": "lKKEvOnUADnt027n4Cvv+vQEgmjG59qLdMLBEhk6KNGkpydvlqX9BqNNi1bRgivfNKmiNOiu/rzq/5WZYDeugQ==",
   "success": true,
-  "projectFilePath": "F:\\All\\Code\\Programas\\Task Manager\\Models\\Models.csproj",
+  "projectFilePath": "/home/y_m_r/Escritorio/projects/Task-Manager/Models/Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -5,7 +5,7 @@ using System.ComponentModel;
 
 namespace DB.Entities
 {
-    public class TbTasks
+    public class Tasks
     {
         public bool completed { get; set; }
         public string description { get; set; }
